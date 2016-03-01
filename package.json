@@ -1,6 +1,6 @@
 {
   "name": "generator-sg-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Yeoman generator and modified generator-ng-component",
   "license": "MIT",
   "main": "app/index.js",
@@ -16,7 +16,7 @@
     "url": "https://github.com/DaftMonk"
   },
   "engines": {
-    "node": ">=5.6.0"
+    "node": ">=5.7.0"
   },
   "scripts": {
     "test": "mocha"
